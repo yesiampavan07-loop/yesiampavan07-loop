@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="446" viewBox="0 0 490 446">
+<rect width="490" height="446" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<rect width="490" height="28" rx="8" fill="#30363d"/>
+<rect y="20" width="490" height="8" fill="#30363d"/>
+<circle cx="14" cy="14" r="5" fill="#ff5f57"/>
+<circle cx="32" cy="14" r="5" fill="#febc2e"/>
+<circle cx="50" cy="14" r="5" fill="#28c840"/>
+<text x="245" y="18" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#8b949e">pavan@github — info-card</text>
+<style>
+  text{font-family:"Courier New, monospace";font-size:13px;dominant-baseline:auto}
+  .l0{opacity:0;animation:fi .01s 0.30s forwards}
+  .l1{opacity:0;animation:fi .01s 0.38s forwards}
+  .l2{opacity:0;animation:fi .01s 0.46s forwards}
+  .l3{opacity:0;animation:fi .01s 0.54s forwards}
+  .l4{opacity:0;animation:fi .01s 0.62s forwards}
+  .l5{opacity:0;animation:fi .01s 0.70s forwards}
+  .l6{opacity:0;animation:fi .01s 0.78s forwards}
+  .l7{opacity:0;animation:fi .01s 0.86s forwards}
+  .l8{opacity:0;animation:fi .01s 0.94s forwards}
+  .l9{opacity:0;animation:fi .01s 1.02s forwards}
+  .l10{opacity:0;animation:fi .01s 1.10s forwards}
+  .l11{opacity:0;animation:fi .01s 1.18s forwards}
+  .l12{opacity:0;animation:fi .01s 1.26s forwards}
+  .l13{opacity:0;animation:fi .01s 1.34s forwards}
+  .l14{opacity:0;animation:fi .01s 1.42s forwards}
+  .l15{opacity:0;animation:fi .01s 1.50s forwards}
+  .l16{opacity:0;animation:fi .01s 1.58s forwards}
+  .l17{opacity:0;animation:fi .01s 1.66s forwards}
+  @keyframes fi{to{opacity:1}}
+</style>
+<text class="l0" x="18" y="61"><tspan fill="#58a6ff" font-weight="bold">pavan@github</tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">~</tspan></text>
+<line class="l1" x1="18" y1="79" x2="472" y2="79" stroke="#30363d" stroke-width="1"/>
+<text class="l2" x="18" y="105"><tspan fill="#3fb950" font-weight="bold">Name       </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">Pavan Kalyan Sabbani</tspan></text>
+<text class="l3" x="18" y="127"><tspan fill="#3fb950" font-weight="bold">Role       </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">Full Stack Dev & AI Builder</tspan></text>
+<text class="l4" x="18" y="149"><tspan fill="#3fb950" font-weight="bold">College    </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">CJITS • B.Tech CSE '27</tspan></text>
+<text class="l5" x="18" y="171"><tspan fill="#3fb950" font-weight="bold">Location   </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">Hyderabad, India 🇮🇳</tspan></text>
+<line class="l6" x1="18" y1="189" x2="472" y2="189" stroke="#30363d" stroke-width="1"/>
+<text class="l7" x="18" y="215"><tspan fill="#d29922" font-weight="bold">Languages  </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">Python  JS  Java  C  C++</tspan></text>
+<text class="l8" x="18" y="237"><tspan fill="#d29922" font-weight="bold">Frontend   </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">React  HTML5  CSS3</tspan></text>
+<text class="l9" x="18" y="259"><tspan fill="#d29922" font-weight="bold">Backend    </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">Node.js  Express  Spring</tspan></text>
+<text class="l10" x="18" y="281"><tspan fill="#d29922" font-weight="bold">AI / ML    </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">LLaMA  Scikit  Pandas</tspan></text>
+<text class="l11" x="18" y="303"><tspan fill="#d29922" font-weight="bold">Databases  </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">MySQL  MongoDB</tspan></text>
+<line class="l12" x1="18" y1="321" x2="472" y2="321" stroke="#30363d" stroke-width="1"/>
+<text class="l13" x="18" y="347"><tspan fill="#bc8cff" font-weight="bold">Ship       </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">CareerOS AI  (live 🚀)</tspan></text>
+<text class="l14" x="18" y="369"><tspan fill="#bc8cff" font-weight="bold">Intern     </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">SkillCraft Technology</tspan></text>
+<text class="l15" x="18" y="391"><tspan fill="#bc8cff" font-weight="bold">Campus     </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#e6edf3">TooClarity Partner</tspan></text>
+<line class="l16" x1="18" y1="409" x2="472" y2="409" stroke="#30363d" stroke-width="1"/>
+<text class="l17" x="18" y="435"><tspan fill="#58a6ff" font-weight="bold">Open To    </tspan><tspan fill="#8b949e"> │ </tspan><tspan fill="#3fb950">Internships & Collabs ✨</tspan></text>
+</svg>

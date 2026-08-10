@@ -1,0 +1,773 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="168" viewBox="0 0 780 168">
+<rect width="780" height="168" rx="6" fill="#0d1117"/>
+<style>
+  .ml{font-family:"Courier New",monospace;font-size:9px;fill:#8b949e}
+  .box{rx:2;ry:2}
+  @keyframes reveal{from{opacity:0}to{opacity:1}}
+  .d0_0{opacity:0;animation:reveal .05s 0.000s forwards}
+  .d0_1{opacity:0;animation:reveal .05s 0.012s forwards}
+  .d0_2{opacity:0;animation:reveal .05s 0.024s forwards}
+  .d0_3{opacity:0;animation:reveal .05s 0.036s forwards}
+  .d0_4{opacity:0;animation:reveal .05s 0.048s forwards}
+  .d0_5{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d0_6{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d1_0{opacity:0;animation:reveal .05s 0.012s forwards}
+  .d1_1{opacity:0;animation:reveal .05s 0.024s forwards}
+  .d1_2{opacity:0;animation:reveal .05s 0.036s forwards}
+  .d1_3{opacity:0;animation:reveal .05s 0.048s forwards}
+  .d1_4{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d1_5{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d1_6{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d2_0{opacity:0;animation:reveal .05s 0.024s forwards}
+  .d2_1{opacity:0;animation:reveal .05s 0.036s forwards}
+  .d2_2{opacity:0;animation:reveal .05s 0.048s forwards}
+  .d2_3{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d2_4{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d2_5{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d2_6{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d3_0{opacity:0;animation:reveal .05s 0.036s forwards}
+  .d3_1{opacity:0;animation:reveal .05s 0.048s forwards}
+  .d3_2{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d3_3{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d3_4{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d3_5{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d3_6{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d4_0{opacity:0;animation:reveal .05s 0.048s forwards}
+  .d4_1{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d4_2{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d4_3{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d4_4{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d4_5{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d4_6{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d5_0{opacity:0;animation:reveal .05s 0.060s forwards}
+  .d5_1{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d5_2{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d5_3{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d5_4{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d5_5{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d5_6{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d6_0{opacity:0;animation:reveal .05s 0.072s forwards}
+  .d6_1{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d6_2{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d6_3{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d6_4{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d6_5{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d6_6{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d7_0{opacity:0;animation:reveal .05s 0.084s forwards}
+  .d7_1{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d7_2{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d7_3{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d7_4{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d7_5{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d7_6{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d8_0{opacity:0;animation:reveal .05s 0.096s forwards}
+  .d8_1{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d8_2{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d8_3{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d8_4{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d8_5{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d8_6{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d9_0{opacity:0;animation:reveal .05s 0.108s forwards}
+  .d9_1{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d9_2{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d9_3{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d9_4{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d9_5{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d9_6{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d10_0{opacity:0;animation:reveal .05s 0.120s forwards}
+  .d10_1{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d10_2{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d10_3{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d10_4{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d10_5{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d10_6{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d11_0{opacity:0;animation:reveal .05s 0.132s forwards}
+  .d11_1{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d11_2{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d11_3{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d11_4{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d11_5{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d11_6{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d12_0{opacity:0;animation:reveal .05s 0.144s forwards}
+  .d12_1{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d12_2{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d12_3{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d12_4{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d12_5{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d12_6{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d13_0{opacity:0;animation:reveal .05s 0.156s forwards}
+  .d13_1{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d13_2{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d13_3{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d13_4{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d13_5{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d13_6{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d14_0{opacity:0;animation:reveal .05s 0.168s forwards}
+  .d14_1{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d14_2{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d14_3{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d14_4{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d14_5{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d14_6{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d15_0{opacity:0;animation:reveal .05s 0.180s forwards}
+  .d15_1{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d15_2{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d15_3{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d15_4{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d15_5{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d15_6{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d16_0{opacity:0;animation:reveal .05s 0.192s forwards}
+  .d16_1{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d16_2{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d16_3{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d16_4{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d16_5{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d16_6{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d17_0{opacity:0;animation:reveal .05s 0.204s forwards}
+  .d17_1{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d17_2{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d17_3{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d17_4{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d17_5{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d17_6{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d18_0{opacity:0;animation:reveal .05s 0.216s forwards}
+  .d18_1{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d18_2{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d18_3{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d18_4{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d18_5{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d18_6{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d19_0{opacity:0;animation:reveal .05s 0.228s forwards}
+  .d19_1{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d19_2{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d19_3{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d19_4{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d19_5{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d19_6{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d20_0{opacity:0;animation:reveal .05s 0.240s forwards}
+  .d20_1{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d20_2{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d20_3{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d20_4{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d20_5{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d20_6{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d21_0{opacity:0;animation:reveal .05s 0.252s forwards}
+  .d21_1{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d21_2{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d21_3{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d21_4{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d21_5{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d21_6{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d22_0{opacity:0;animation:reveal .05s 0.264s forwards}
+  .d22_1{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d22_2{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d22_3{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d22_4{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d22_5{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d22_6{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d23_0{opacity:0;animation:reveal .05s 0.276s forwards}
+  .d23_1{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d23_2{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d23_3{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d23_4{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d23_5{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d23_6{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d24_0{opacity:0;animation:reveal .05s 0.288s forwards}
+  .d24_1{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d24_2{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d24_3{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d24_4{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d24_5{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d24_6{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d25_0{opacity:0;animation:reveal .05s 0.300s forwards}
+  .d25_1{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d25_2{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d25_3{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d25_4{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d25_5{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d25_6{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d26_0{opacity:0;animation:reveal .05s 0.312s forwards}
+  .d26_1{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d26_2{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d26_3{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d26_4{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d26_5{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d26_6{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d27_0{opacity:0;animation:reveal .05s 0.324s forwards}
+  .d27_1{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d27_2{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d27_3{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d27_4{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d27_5{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d27_6{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d28_0{opacity:0;animation:reveal .05s 0.336s forwards}
+  .d28_1{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d28_2{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d28_3{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d28_4{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d28_5{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d28_6{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d29_0{opacity:0;animation:reveal .05s 0.348s forwards}
+  .d29_1{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d29_2{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d29_3{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d29_4{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d29_5{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d29_6{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d30_0{opacity:0;animation:reveal .05s 0.360s forwards}
+  .d30_1{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d30_2{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d30_3{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d30_4{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d30_5{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d30_6{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d31_0{opacity:0;animation:reveal .05s 0.372s forwards}
+  .d31_1{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d31_2{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d31_3{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d31_4{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d31_5{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d31_6{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d32_0{opacity:0;animation:reveal .05s 0.384s forwards}
+  .d32_1{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d32_2{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d32_3{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d32_4{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d32_5{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d32_6{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d33_0{opacity:0;animation:reveal .05s 0.396s forwards}
+  .d33_1{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d33_2{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d33_3{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d33_4{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d33_5{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d33_6{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d34_0{opacity:0;animation:reveal .05s 0.408s forwards}
+  .d34_1{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d34_2{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d34_3{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d34_4{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d34_5{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d34_6{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d35_0{opacity:0;animation:reveal .05s 0.420s forwards}
+  .d35_1{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d35_2{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d35_3{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d35_4{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d35_5{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d35_6{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d36_0{opacity:0;animation:reveal .05s 0.432s forwards}
+  .d36_1{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d36_2{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d36_3{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d36_4{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d36_5{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d36_6{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d37_0{opacity:0;animation:reveal .05s 0.444s forwards}
+  .d37_1{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d37_2{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d37_3{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d37_4{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d37_5{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d37_6{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d38_0{opacity:0;animation:reveal .05s 0.456s forwards}
+  .d38_1{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d38_2{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d38_3{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d38_4{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d38_5{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d38_6{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d39_0{opacity:0;animation:reveal .05s 0.468s forwards}
+  .d39_1{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d39_2{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d39_3{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d39_4{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d39_5{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d39_6{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d40_0{opacity:0;animation:reveal .05s 0.480s forwards}
+  .d40_1{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d40_2{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d40_3{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d40_4{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d40_5{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d40_6{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d41_0{opacity:0;animation:reveal .05s 0.492s forwards}
+  .d41_1{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d41_2{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d41_3{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d41_4{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d41_5{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d41_6{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d42_0{opacity:0;animation:reveal .05s 0.504s forwards}
+  .d42_1{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d42_2{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d42_3{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d42_4{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d42_5{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d42_6{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d43_0{opacity:0;animation:reveal .05s 0.516s forwards}
+  .d43_1{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d43_2{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d43_3{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d43_4{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d43_5{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d43_6{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d44_0{opacity:0;animation:reveal .05s 0.528s forwards}
+  .d44_1{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d44_2{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d44_3{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d44_4{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d44_5{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d44_6{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d45_0{opacity:0;animation:reveal .05s 0.540s forwards}
+  .d45_1{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d45_2{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d45_3{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d45_4{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d45_5{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d45_6{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d46_0{opacity:0;animation:reveal .05s 0.552s forwards}
+  .d46_1{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d46_2{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d46_3{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d46_4{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d46_5{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d46_6{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d47_0{opacity:0;animation:reveal .05s 0.564s forwards}
+  .d47_1{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d47_2{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d47_3{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d47_4{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d47_5{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d47_6{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d48_0{opacity:0;animation:reveal .05s 0.576s forwards}
+  .d48_1{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d48_2{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d48_3{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d48_4{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d48_5{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d48_6{opacity:0;animation:reveal .05s 0.648s forwards}
+  .d49_0{opacity:0;animation:reveal .05s 0.588s forwards}
+  .d49_1{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d49_2{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d49_3{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d49_4{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d49_5{opacity:0;animation:reveal .05s 0.648s forwards}
+  .d49_6{opacity:0;animation:reveal .05s 0.660s forwards}
+  .d50_0{opacity:0;animation:reveal .05s 0.600s forwards}
+  .d50_1{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d50_2{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d50_3{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d50_4{opacity:0;animation:reveal .05s 0.648s forwards}
+  .d50_5{opacity:0;animation:reveal .05s 0.660s forwards}
+  .d50_6{opacity:0;animation:reveal .05s 0.672s forwards}
+  .d51_0{opacity:0;animation:reveal .05s 0.612s forwards}
+  .d51_1{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d51_2{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d51_3{opacity:0;animation:reveal .05s 0.648s forwards}
+  .d51_4{opacity:0;animation:reveal .05s 0.660s forwards}
+  .d51_5{opacity:0;animation:reveal .05s 0.672s forwards}
+  .d51_6{opacity:0;animation:reveal .05s 0.684s forwards}
+  .d52_0{opacity:0;animation:reveal .05s 0.624s forwards}
+  .d52_1{opacity:0;animation:reveal .05s 0.636s forwards}
+  .d52_2{opacity:0;animation:reveal .05s 0.648s forwards}
+  .d52_3{opacity:0;animation:reveal .05s 0.660s forwards}
+  .d52_4{opacity:0;animation:reveal .05s 0.672s forwards}
+  .d52_5{opacity:0;animation:reveal .05s 0.684s forwards}
+  .d52_6{opacity:0;animation:reveal .05s 0.696s forwards}
+</style>
+<text class="ml" x="28" y="15">Aug</text>
+<text class="ml" x="84" y="15">Sep</text>
+<text class="ml" x="140" y="15">Oct</text>
+<text class="ml" x="196" y="15">Nov</text>
+<text class="ml" x="266" y="15">Dec</text>
+<text class="ml" x="322" y="15">Jan</text>
+<text class="ml" x="378" y="15">Feb</text>
+<text class="ml" x="434" y="15">Mar</text>
+<text class="ml" x="504" y="15">Apr</text>
+<text class="ml" x="560" y="15">May</text>
+<text class="ml" x="630" y="15">Jun</text>
+<text class="ml" x="686" y="15">Jul</text>
+<text class="ml" x="2" y="29">Mon</text>
+<text class="ml" x="2" y="57">Wed</text>
+<text class="ml" x="2" y="85">Fri</text>
+<rect class="box d0_0" x="28" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-04: 0 contributions</title></rect>
+<rect class="box d0_1" x="28" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-05: 0 contributions</title></rect>
+<rect class="box d0_2" x="28" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-06: 0 contributions</title></rect>
+<rect class="box d0_3" x="28" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-07: 0 contributions</title></rect>
+<rect class="box d0_4" x="28" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-08: 0 contributions</title></rect>
+<rect class="box d0_5" x="28" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-09: 0 contributions</title></rect>
+<rect class="box d0_6" x="28" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-10: 0 contributions</title></rect>
+<rect class="box d1_0" x="42" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-11: 0 contributions</title></rect>
+<rect class="box d1_1" x="42" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-12: 0 contributions</title></rect>
+<rect class="box d1_2" x="42" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-13: 0 contributions</title></rect>
+<rect class="box d1_3" x="42" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-14: 0 contributions</title></rect>
+<rect class="box d1_4" x="42" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-15: 0 contributions</title></rect>
+<rect class="box d1_5" x="42" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-16: 0 contributions</title></rect>
+<rect class="box d1_6" x="42" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-17: 0 contributions</title></rect>
+<rect class="box d2_0" x="56" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-18: 0 contributions</title></rect>
+<rect class="box d2_1" x="56" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-19: 0 contributions</title></rect>
+<rect class="box d2_2" x="56" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-20: 0 contributions</title></rect>
+<rect class="box d2_3" x="56" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-21: 0 contributions</title></rect>
+<rect class="box d2_4" x="56" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-22: 0 contributions</title></rect>
+<rect class="box d2_5" x="56" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-23: 0 contributions</title></rect>
+<rect class="box d2_6" x="56" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-24: 0 contributions</title></rect>
+<rect class="box d3_0" x="70" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-25: 0 contributions</title></rect>
+<rect class="box d3_1" x="70" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-26: 0 contributions</title></rect>
+<rect class="box d3_2" x="70" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-27: 0 contributions</title></rect>
+<rect class="box d3_3" x="70" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-28: 0 contributions</title></rect>
+<rect class="box d3_4" x="70" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-29: 0 contributions</title></rect>
+<rect class="box d3_5" x="70" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-30: 0 contributions</title></rect>
+<rect class="box d3_6" x="70" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-31: 0 contributions</title></rect>
+<rect class="box d4_0" x="84" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-01: 0 contributions</title></rect>
+<rect class="box d4_1" x="84" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-02: 0 contributions</title></rect>
+<rect class="box d4_2" x="84" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-03: 0 contributions</title></rect>
+<rect class="box d4_3" x="84" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-04: 0 contributions</title></rect>
+<rect class="box d4_4" x="84" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-05: 0 contributions</title></rect>
+<rect class="box d4_5" x="84" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-06: 0 contributions</title></rect>
+<rect class="box d4_6" x="84" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-07: 0 contributions</title></rect>
+<rect class="box d5_0" x="98" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-08: 0 contributions</title></rect>
+<rect class="box d5_1" x="98" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-09: 0 contributions</title></rect>
+<rect class="box d5_2" x="98" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-10: 0 contributions</title></rect>
+<rect class="box d5_3" x="98" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-11: 0 contributions</title></rect>
+<rect class="box d5_4" x="98" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-12: 0 contributions</title></rect>
+<rect class="box d5_5" x="98" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-13: 0 contributions</title></rect>
+<rect class="box d5_6" x="98" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-14: 0 contributions</title></rect>
+<rect class="box d6_0" x="112" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-15: 0 contributions</title></rect>
+<rect class="box d6_1" x="112" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-16: 0 contributions</title></rect>
+<rect class="box d6_2" x="112" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-17: 0 contributions</title></rect>
+<rect class="box d6_3" x="112" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-18: 0 contributions</title></rect>
+<rect class="box d6_4" x="112" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-19: 0 contributions</title></rect>
+<rect class="box d6_5" x="112" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-20: 0 contributions</title></rect>
+<rect class="box d6_6" x="112" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-21: 0 contributions</title></rect>
+<rect class="box d7_0" x="126" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-22: 0 contributions</title></rect>
+<rect class="box d7_1" x="126" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-23: 0 contributions</title></rect>
+<rect class="box d7_2" x="126" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-24: 0 contributions</title></rect>
+<rect class="box d7_3" x="126" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-25: 0 contributions</title></rect>
+<rect class="box d7_4" x="126" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-26: 0 contributions</title></rect>
+<rect class="box d7_5" x="126" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-27: 0 contributions</title></rect>
+<rect class="box d7_6" x="126" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-28: 0 contributions</title></rect>
+<rect class="box d8_0" x="140" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-29: 0 contributions</title></rect>
+<rect class="box d8_1" x="140" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-30: 0 contributions</title></rect>
+<rect class="box d8_2" x="140" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-01: 0 contributions</title></rect>
+<rect class="box d8_3" x="140" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-02: 0 contributions</title></rect>
+<rect class="box d8_4" x="140" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-03: 0 contributions</title></rect>
+<rect class="box d8_5" x="140" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-04: 0 contributions</title></rect>
+<rect class="box d8_6" x="140" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-05: 0 contributions</title></rect>
+<rect class="box d9_0" x="154" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-06: 0 contributions</title></rect>
+<rect class="box d9_1" x="154" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-07: 0 contributions</title></rect>
+<rect class="box d9_2" x="154" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-08: 0 contributions</title></rect>
+<rect class="box d9_3" x="154" y="62" width="11" height="11" rx="2" fill="#39d353"><title>2025-10-09: 0 contributions</title></rect>
+<rect class="box d9_4" x="154" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-10: 0 contributions</title></rect>
+<rect class="box d9_5" x="154" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-11: 0 contributions</title></rect>
+<rect class="box d9_6" x="154" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-12: 0 contributions</title></rect>
+<rect class="box d10_0" x="168" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-13: 0 contributions</title></rect>
+<rect class="box d10_1" x="168" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-14: 0 contributions</title></rect>
+<rect class="box d10_2" x="168" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-15: 0 contributions</title></rect>
+<rect class="box d10_3" x="168" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-16: 0 contributions</title></rect>
+<rect class="box d10_4" x="168" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-17: 0 contributions</title></rect>
+<rect class="box d10_5" x="168" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-18: 0 contributions</title></rect>
+<rect class="box d10_6" x="168" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-19: 0 contributions</title></rect>
+<rect class="box d11_0" x="182" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-20: 0 contributions</title></rect>
+<rect class="box d11_1" x="182" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-21: 0 contributions</title></rect>
+<rect class="box d11_2" x="182" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-22: 0 contributions</title></rect>
+<rect class="box d11_3" x="182" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-23: 0 contributions</title></rect>
+<rect class="box d11_4" x="182" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-24: 0 contributions</title></rect>
+<rect class="box d11_5" x="182" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-25: 0 contributions</title></rect>
+<rect class="box d11_6" x="182" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-26: 0 contributions</title></rect>
+<rect class="box d12_0" x="196" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-27: 0 contributions</title></rect>
+<rect class="box d12_1" x="196" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-28: 0 contributions</title></rect>
+<rect class="box d12_2" x="196" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-29: 0 contributions</title></rect>
+<rect class="box d12_3" x="196" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-30: 0 contributions</title></rect>
+<rect class="box d12_4" x="196" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-31: 0 contributions</title></rect>
+<rect class="box d12_5" x="196" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-01: 0 contributions</title></rect>
+<rect class="box d12_6" x="196" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-02: 0 contributions</title></rect>
+<rect class="box d13_0" x="210" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-03: 0 contributions</title></rect>
+<rect class="box d13_1" x="210" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-04: 0 contributions</title></rect>
+<rect class="box d13_2" x="210" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-05: 0 contributions</title></rect>
+<rect class="box d13_3" x="210" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-06: 0 contributions</title></rect>
+<rect class="box d13_4" x="210" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-07: 0 contributions</title></rect>
+<rect class="box d13_5" x="210" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-08: 0 contributions</title></rect>
+<rect class="box d13_6" x="210" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-09: 0 contributions</title></rect>
+<rect class="box d14_0" x="224" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-10: 0 contributions</title></rect>
+<rect class="box d14_1" x="224" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-11: 0 contributions</title></rect>
+<rect class="box d14_2" x="224" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-12: 0 contributions</title></rect>
+<rect class="box d14_3" x="224" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-13: 0 contributions</title></rect>
+<rect class="box d14_4" x="224" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-14: 0 contributions</title></rect>
+<rect class="box d14_5" x="224" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-15: 0 contributions</title></rect>
+<rect class="box d14_6" x="224" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-16: 0 contributions</title></rect>
+<rect class="box d15_0" x="238" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-17: 0 contributions</title></rect>
+<rect class="box d15_1" x="238" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-18: 0 contributions</title></rect>
+<rect class="box d15_2" x="238" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-19: 0 contributions</title></rect>
+<rect class="box d15_3" x="238" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-20: 0 contributions</title></rect>
+<rect class="box d15_4" x="238" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-21: 0 contributions</title></rect>
+<rect class="box d15_5" x="238" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-22: 0 contributions</title></rect>
+<rect class="box d15_6" x="238" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-23: 0 contributions</title></rect>
+<rect class="box d16_0" x="252" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-24: 0 contributions</title></rect>
+<rect class="box d16_1" x="252" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-25: 0 contributions</title></rect>
+<rect class="box d16_2" x="252" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-26: 0 contributions</title></rect>
+<rect class="box d16_3" x="252" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-27: 0 contributions</title></rect>
+<rect class="box d16_4" x="252" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-28: 0 contributions</title></rect>
+<rect class="box d16_5" x="252" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-29: 0 contributions</title></rect>
+<rect class="box d16_6" x="252" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-30: 0 contributions</title></rect>
+<rect class="box d17_0" x="266" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-01: 0 contributions</title></rect>
+<rect class="box d17_1" x="266" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-02: 0 contributions</title></rect>
+<rect class="box d17_2" x="266" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-03: 0 contributions</title></rect>
+<rect class="box d17_3" x="266" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-04: 0 contributions</title></rect>
+<rect class="box d17_4" x="266" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-05: 0 contributions</title></rect>
+<rect class="box d17_5" x="266" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-06: 0 contributions</title></rect>
+<rect class="box d17_6" x="266" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-07: 0 contributions</title></rect>
+<rect class="box d18_0" x="280" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-08: 0 contributions</title></rect>
+<rect class="box d18_1" x="280" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-09: 0 contributions</title></rect>
+<rect class="box d18_2" x="280" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-10: 0 contributions</title></rect>
+<rect class="box d18_3" x="280" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-11: 0 contributions</title></rect>
+<rect class="box d18_4" x="280" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-12: 0 contributions</title></rect>
+<rect class="box d18_5" x="280" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-13: 0 contributions</title></rect>
+<rect class="box d18_6" x="280" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-14: 0 contributions</title></rect>
+<rect class="box d19_0" x="294" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-15: 0 contributions</title></rect>
+<rect class="box d19_1" x="294" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-16: 0 contributions</title></rect>
+<rect class="box d19_2" x="294" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-17: 0 contributions</title></rect>
+<rect class="box d19_3" x="294" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-18: 0 contributions</title></rect>
+<rect class="box d19_4" x="294" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-19: 0 contributions</title></rect>
+<rect class="box d19_5" x="294" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-20: 0 contributions</title></rect>
+<rect class="box d19_6" x="294" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-21: 0 contributions</title></rect>
+<rect class="box d20_0" x="308" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-22: 0 contributions</title></rect>
+<rect class="box d20_1" x="308" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-23: 0 contributions</title></rect>
+<rect class="box d20_2" x="308" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-24: 0 contributions</title></rect>
+<rect class="box d20_3" x="308" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-25: 0 contributions</title></rect>
+<rect class="box d20_4" x="308" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-26: 0 contributions</title></rect>
+<rect class="box d20_5" x="308" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-27: 0 contributions</title></rect>
+<rect class="box d20_6" x="308" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-28: 0 contributions</title></rect>
+<rect class="box d21_0" x="322" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-29: 0 contributions</title></rect>
+<rect class="box d21_1" x="322" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-30: 0 contributions</title></rect>
+<rect class="box d21_2" x="322" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-31: 0 contributions</title></rect>
+<rect class="box d21_3" x="322" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-01: 0 contributions</title></rect>
+<rect class="box d21_4" x="322" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-02: 0 contributions</title></rect>
+<rect class="box d21_5" x="322" y="90" width="11" height="11" rx="2" fill="#006d32"><title>2026-01-03: 0 contributions</title></rect>
+<rect class="box d21_6" x="322" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-04: 0 contributions</title></rect>
+<rect class="box d22_0" x="336" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-05: 0 contributions</title></rect>
+<rect class="box d22_1" x="336" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-06: 0 contributions</title></rect>
+<rect class="box d22_2" x="336" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-07: 0 contributions</title></rect>
+<rect class="box d22_3" x="336" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-08: 0 contributions</title></rect>
+<rect class="box d22_4" x="336" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-09: 0 contributions</title></rect>
+<rect class="box d22_5" x="336" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-10: 0 contributions</title></rect>
+<rect class="box d22_6" x="336" y="104" width="11" height="11" rx="2" fill="#39d353"><title>2026-01-11: 0 contributions</title></rect>
+<rect class="box d23_0" x="350" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-12: 0 contributions</title></rect>
+<rect class="box d23_1" x="350" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-13: 0 contributions</title></rect>
+<rect class="box d23_2" x="350" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-14: 0 contributions</title></rect>
+<rect class="box d23_3" x="350" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-15: 0 contributions</title></rect>
+<rect class="box d23_4" x="350" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-16: 0 contributions</title></rect>
+<rect class="box d23_5" x="350" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-17: 0 contributions</title></rect>
+<rect class="box d23_6" x="350" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-18: 0 contributions</title></rect>
+<rect class="box d24_0" x="364" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-19: 0 contributions</title></rect>
+<rect class="box d24_1" x="364" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-20: 0 contributions</title></rect>
+<rect class="box d24_2" x="364" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-21: 0 contributions</title></rect>
+<rect class="box d24_3" x="364" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-22: 0 contributions</title></rect>
+<rect class="box d24_4" x="364" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-23: 0 contributions</title></rect>
+<rect class="box d24_5" x="364" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-24: 0 contributions</title></rect>
+<rect class="box d24_6" x="364" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-25: 0 contributions</title></rect>
+<rect class="box d25_0" x="378" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-26: 0 contributions</title></rect>
+<rect class="box d25_1" x="378" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-27: 0 contributions</title></rect>
+<rect class="box d25_2" x="378" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-28: 0 contributions</title></rect>
+<rect class="box d25_3" x="378" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-29: 0 contributions</title></rect>
+<rect class="box d25_4" x="378" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-30: 0 contributions</title></rect>
+<rect class="box d25_5" x="378" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-31: 0 contributions</title></rect>
+<rect class="box d25_6" x="378" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-01: 0 contributions</title></rect>
+<rect class="box d26_0" x="392" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-02: 0 contributions</title></rect>
+<rect class="box d26_1" x="392" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-03: 0 contributions</title></rect>
+<rect class="box d26_2" x="392" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-04: 0 contributions</title></rect>
+<rect class="box d26_3" x="392" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-05: 0 contributions</title></rect>
+<rect class="box d26_4" x="392" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-06: 0 contributions</title></rect>
+<rect class="box d26_5" x="392" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-07: 0 contributions</title></rect>
+<rect class="box d26_6" x="392" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-08: 0 contributions</title></rect>
+<rect class="box d27_0" x="406" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-09: 0 contributions</title></rect>
+<rect class="box d27_1" x="406" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-10: 0 contributions</title></rect>
+<rect class="box d27_2" x="406" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-11: 0 contributions</title></rect>
+<rect class="box d27_3" x="406" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-12: 0 contributions</title></rect>
+<rect class="box d27_4" x="406" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-13: 0 contributions</title></rect>
+<rect class="box d27_5" x="406" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-14: 0 contributions</title></rect>
+<rect class="box d27_6" x="406" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-15: 0 contributions</title></rect>
+<rect class="box d28_0" x="420" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-16: 0 contributions</title></rect>
+<rect class="box d28_1" x="420" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-17: 0 contributions</title></rect>
+<rect class="box d28_2" x="420" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-18: 0 contributions</title></rect>
+<rect class="box d28_3" x="420" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-19: 0 contributions</title></rect>
+<rect class="box d28_4" x="420" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-20: 0 contributions</title></rect>
+<rect class="box d28_5" x="420" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-21: 0 contributions</title></rect>
+<rect class="box d28_6" x="420" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-22: 0 contributions</title></rect>
+<rect class="box d29_0" x="434" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-23: 0 contributions</title></rect>
+<rect class="box d29_1" x="434" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-24: 0 contributions</title></rect>
+<rect class="box d29_2" x="434" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-25: 0 contributions</title></rect>
+<rect class="box d29_3" x="434" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-26: 0 contributions</title></rect>
+<rect class="box d29_4" x="434" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-27: 0 contributions</title></rect>
+<rect class="box d29_5" x="434" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-28: 0 contributions</title></rect>
+<rect class="box d29_6" x="434" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-01: 0 contributions</title></rect>
+<rect class="box d30_0" x="448" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-02: 0 contributions</title></rect>
+<rect class="box d30_1" x="448" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-03: 0 contributions</title></rect>
+<rect class="box d30_2" x="448" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-04: 0 contributions</title></rect>
+<rect class="box d30_3" x="448" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-05: 0 contributions</title></rect>
+<rect class="box d30_4" x="448" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-06: 0 contributions</title></rect>
+<rect class="box d30_5" x="448" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-07: 0 contributions</title></rect>
+<rect class="box d30_6" x="448" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-08: 0 contributions</title></rect>
+<rect class="box d31_0" x="462" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-09: 0 contributions</title></rect>
+<rect class="box d31_1" x="462" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-10: 0 contributions</title></rect>
+<rect class="box d31_2" x="462" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-11: 0 contributions</title></rect>
+<rect class="box d31_3" x="462" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-12: 0 contributions</title></rect>
+<rect class="box d31_4" x="462" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-13: 0 contributions</title></rect>
+<rect class="box d31_5" x="462" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-14: 0 contributions</title></rect>
+<rect class="box d31_6" x="462" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-15: 0 contributions</title></rect>
+<rect class="box d32_0" x="476" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-16: 0 contributions</title></rect>
+<rect class="box d32_1" x="476" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-17: 0 contributions</title></rect>
+<rect class="box d32_2" x="476" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-18: 0 contributions</title></rect>
+<rect class="box d32_3" x="476" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-19: 0 contributions</title></rect>
+<rect class="box d32_4" x="476" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-20: 0 contributions</title></rect>
+<rect class="box d32_5" x="476" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-21: 0 contributions</title></rect>
+<rect class="box d32_6" x="476" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-22: 0 contributions</title></rect>
+<rect class="box d33_0" x="490" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-23: 0 contributions</title></rect>
+<rect class="box d33_1" x="490" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-24: 0 contributions</title></rect>
+<rect class="box d33_2" x="490" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-25: 0 contributions</title></rect>
+<rect class="box d33_3" x="490" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-26: 0 contributions</title></rect>
+<rect class="box d33_4" x="490" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-27: 0 contributions</title></rect>
+<rect class="box d33_5" x="490" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-28: 0 contributions</title></rect>
+<rect class="box d33_6" x="490" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-29: 0 contributions</title></rect>
+<rect class="box d34_0" x="504" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-30: 0 contributions</title></rect>
+<rect class="box d34_1" x="504" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-31: 0 contributions</title></rect>
+<rect class="box d34_2" x="504" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-01: 0 contributions</title></rect>
+<rect class="box d34_3" x="504" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-02: 0 contributions</title></rect>
+<rect class="box d34_4" x="504" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-03: 0 contributions</title></rect>
+<rect class="box d34_5" x="504" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-04: 0 contributions</title></rect>
+<rect class="box d34_6" x="504" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-05: 0 contributions</title></rect>
+<rect class="box d35_0" x="518" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-06: 0 contributions</title></rect>
+<rect class="box d35_1" x="518" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-07: 0 contributions</title></rect>
+<rect class="box d35_2" x="518" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-08: 0 contributions</title></rect>
+<rect class="box d35_3" x="518" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-09: 0 contributions</title></rect>
+<rect class="box d35_4" x="518" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-10: 0 contributions</title></rect>
+<rect class="box d35_5" x="518" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-11: 0 contributions</title></rect>
+<rect class="box d35_6" x="518" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-12: 0 contributions</title></rect>
+<rect class="box d36_0" x="532" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-13: 0 contributions</title></rect>
+<rect class="box d36_1" x="532" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-14: 0 contributions</title></rect>
+<rect class="box d36_2" x="532" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-15: 0 contributions</title></rect>
+<rect class="box d36_3" x="532" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-16: 0 contributions</title></rect>
+<rect class="box d36_4" x="532" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-17: 0 contributions</title></rect>
+<rect class="box d36_5" x="532" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-18: 0 contributions</title></rect>
+<rect class="box d36_6" x="532" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-19: 0 contributions</title></rect>
+<rect class="box d37_0" x="546" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-20: 0 contributions</title></rect>
+<rect class="box d37_1" x="546" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-21: 0 contributions</title></rect>
+<rect class="box d37_2" x="546" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-22: 0 contributions</title></rect>
+<rect class="box d37_3" x="546" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-23: 0 contributions</title></rect>
+<rect class="box d37_4" x="546" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-24: 0 contributions</title></rect>
+<rect class="box d37_5" x="546" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-25: 0 contributions</title></rect>
+<rect class="box d37_6" x="546" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-26: 0 contributions</title></rect>
+<rect class="box d38_0" x="560" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-27: 0 contributions</title></rect>
+<rect class="box d38_1" x="560" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-28: 0 contributions</title></rect>
+<rect class="box d38_2" x="560" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-29: 0 contributions</title></rect>
+<rect class="box d38_3" x="560" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-30: 0 contributions</title></rect>
+<rect class="box d38_4" x="560" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-01: 0 contributions</title></rect>
+<rect class="box d38_5" x="560" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-02: 0 contributions</title></rect>
+<rect class="box d38_6" x="560" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-03: 0 contributions</title></rect>
+<rect class="box d39_0" x="574" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-04: 0 contributions</title></rect>
+<rect class="box d39_1" x="574" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-05: 0 contributions</title></rect>
+<rect class="box d39_2" x="574" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-06: 0 contributions</title></rect>
+<rect class="box d39_3" x="574" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-07: 0 contributions</title></rect>
+<rect class="box d39_4" x="574" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-08: 0 contributions</title></rect>
+<rect class="box d39_5" x="574" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-09: 0 contributions</title></rect>
+<rect class="box d39_6" x="574" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-10: 0 contributions</title></rect>
+<rect class="box d40_0" x="588" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-11: 0 contributions</title></rect>
+<rect class="box d40_1" x="588" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-12: 0 contributions</title></rect>
+<rect class="box d40_2" x="588" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-13: 0 contributions</title></rect>
+<rect class="box d40_3" x="588" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-14: 0 contributions</title></rect>
+<rect class="box d40_4" x="588" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-15: 0 contributions</title></rect>
+<rect class="box d40_5" x="588" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-16: 0 contributions</title></rect>
+<rect class="box d40_6" x="588" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-17: 0 contributions</title></rect>
+<rect class="box d41_0" x="602" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-18: 0 contributions</title></rect>
+<rect class="box d41_1" x="602" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-19: 0 contributions</title></rect>
+<rect class="box d41_2" x="602" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-20: 0 contributions</title></rect>
+<rect class="box d41_3" x="602" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-21: 0 contributions</title></rect>
+<rect class="box d41_4" x="602" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-22: 0 contributions</title></rect>
+<rect class="box d41_5" x="602" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-23: 0 contributions</title></rect>
+<rect class="box d41_6" x="602" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-24: 0 contributions</title></rect>
+<rect class="box d42_0" x="616" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-25: 0 contributions</title></rect>
+<rect class="box d42_1" x="616" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-26: 0 contributions</title></rect>
+<rect class="box d42_2" x="616" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-27: 0 contributions</title></rect>
+<rect class="box d42_3" x="616" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-28: 0 contributions</title></rect>
+<rect class="box d42_4" x="616" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-29: 0 contributions</title></rect>
+<rect class="box d42_5" x="616" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-30: 0 contributions</title></rect>
+<rect class="box d42_6" x="616" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-31: 0 contributions</title></rect>
+<rect class="box d43_0" x="630" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-01: 0 contributions</title></rect>
+<rect class="box d43_1" x="630" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-02: 0 contributions</title></rect>
+<rect class="box d43_2" x="630" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-03: 0 contributions</title></rect>
+<rect class="box d43_3" x="630" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-04: 0 contributions</title></rect>
+<rect class="box d43_4" x="630" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-05: 0 contributions</title></rect>
+<rect class="box d43_5" x="630" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-06: 0 contributions</title></rect>
+<rect class="box d43_6" x="630" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-07: 0 contributions</title></rect>
+<rect class="box d44_0" x="644" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-08: 0 contributions</title></rect>
+<rect class="box d44_1" x="644" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-09: 0 contributions</title></rect>
+<rect class="box d44_2" x="644" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-10: 0 contributions</title></rect>
+<rect class="box d44_3" x="644" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-11: 0 contributions</title></rect>
+<rect class="box d44_4" x="644" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-12: 0 contributions</title></rect>
+<rect class="box d44_5" x="644" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-13: 0 contributions</title></rect>
+<rect class="box d44_6" x="644" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-14: 0 contributions</title></rect>
+<rect class="box d45_0" x="658" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-15: 0 contributions</title></rect>
+<rect class="box d45_1" x="658" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-16: 0 contributions</title></rect>
+<rect class="box d45_2" x="658" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-17: 0 contributions</title></rect>
+<rect class="box d45_3" x="658" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-18: 0 contributions</title></rect>
+<rect class="box d45_4" x="658" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-19: 0 contributions</title></rect>
+<rect class="box d45_5" x="658" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-20: 0 contributions</title></rect>
+<rect class="box d45_6" x="658" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-21: 0 contributions</title></rect>
+<rect class="box d46_0" x="672" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-22: 0 contributions</title></rect>
+<rect class="box d46_1" x="672" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-23: 0 contributions</title></rect>
+<rect class="box d46_2" x="672" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-24: 0 contributions</title></rect>
+<rect class="box d46_3" x="672" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-25: 0 contributions</title></rect>
+<rect class="box d46_4" x="672" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-26: 0 contributions</title></rect>
+<rect class="box d46_5" x="672" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-27: 0 contributions</title></rect>
+<rect class="box d46_6" x="672" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-28: 0 contributions</title></rect>
+<rect class="box d47_0" x="686" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-29: 0 contributions</title></rect>
+<rect class="box d47_1" x="686" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-30: 0 contributions</title></rect>
+<rect class="box d47_2" x="686" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-01: 0 contributions</title></rect>
+<rect class="box d47_3" x="686" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-02: 0 contributions</title></rect>
+<rect class="box d47_4" x="686" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-03: 0 contributions</title></rect>
+<rect class="box d47_5" x="686" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-04: 0 contributions</title></rect>
+<rect class="box d47_6" x="686" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-05: 0 contributions</title></rect>
+<rect class="box d48_0" x="700" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-06: 0 contributions</title></rect>
+<rect class="box d48_1" x="700" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-07: 0 contributions</title></rect>
+<rect class="box d48_2" x="700" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-08: 0 contributions</title></rect>
+<rect class="box d48_3" x="700" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-09: 0 contributions</title></rect>
+<rect class="box d48_4" x="700" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-10: 0 contributions</title></rect>
+<rect class="box d48_5" x="700" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-11: 0 contributions</title></rect>
+<rect class="box d48_6" x="700" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-12: 0 contributions</title></rect>
+<rect class="box d49_0" x="714" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-13: 0 contributions</title></rect>
+<rect class="box d49_1" x="714" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-14: 0 contributions</title></rect>
+<rect class="box d49_2" x="714" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-15: 0 contributions</title></rect>
+<rect class="box d49_3" x="714" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-16: 0 contributions</title></rect>
+<rect class="box d49_4" x="714" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-17: 0 contributions</title></rect>
+<rect class="box d49_5" x="714" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-18: 0 contributions</title></rect>
+<rect class="box d49_6" x="714" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-19: 0 contributions</title></rect>
+<rect class="box d50_0" x="728" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-20: 0 contributions</title></rect>
+<rect class="box d50_1" x="728" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-21: 0 contributions</title></rect>
+<rect class="box d50_2" x="728" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-22: 0 contributions</title></rect>
+<rect class="box d50_3" x="728" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-23: 0 contributions</title></rect>
+<rect class="box d50_4" x="728" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-24: 0 contributions</title></rect>
+<rect class="box d50_5" x="728" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-25: 0 contributions</title></rect>
+<rect class="box d50_6" x="728" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-26: 0 contributions</title></rect>
+<rect class="box d51_0" x="742" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-27: 0 contributions</title></rect>
+<rect class="box d51_1" x="742" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-28: 0 contributions</title></rect>
+<rect class="box d51_2" x="742" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-29: 0 contributions</title></rect>
+<rect class="box d51_3" x="742" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-30: 0 contributions</title></rect>
+<rect class="box d51_4" x="742" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-31: 0 contributions</title></rect>
+<rect class="box d51_5" x="742" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-01: 0 contributions</title></rect>
+<rect class="box d51_6" x="742" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-02: 0 contributions</title></rect>
+<rect class="box d52_0" x="756" y="20" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-03: 0 contributions</title></rect>
+<rect class="box d52_1" x="756" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-04: 0 contributions</title></rect>
+<rect class="box d52_2" x="756" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-05: 0 contributions</title></rect>
+<rect class="box d52_3" x="756" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-06: 0 contributions</title></rect>
+<rect class="box d52_4" x="756" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-07: 0 contributions</title></rect>
+<rect class="box d52_5" x="756" y="90" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-08: 0 contributions</title></rect>
+<rect class="box d52_6" x="756" y="104" width="11" height="11" rx="2" fill="#39d353"><title>2026-08-09: 0 contributions</title></rect>
+<text class="ml" x="670" y="150">Less</text>
+<rect x="702" y="142" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect x="716" y="142" width="11" height="11" rx="2" fill="#006d32"/>
+<rect x="730" y="142" width="11" height="11" rx="2" fill="#26a641"/>
+<rect x="744" y="142" width="11" height="11" rx="2" fill="#39d353"/>
+<rect x="758" y="142" width="11" height="11" rx="2" fill="#69f0a0"/>
+<text class="ml" x="776" y="150">More</text>
+<text class="ml" x="28" y="136" font-size="10" fill="#c9d1d9">0 contributions in the last year  ·  🔥 streak 0  ·  longest 0</text>
+</svg>

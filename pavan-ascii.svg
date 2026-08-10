@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644" height="664" viewBox="0 0 644 664">
+<rect width="100%" height="100%" fill="none"/>
+<style>
+  text{font-family:"Courier New",monospace;font-size:11px;fill:#58a6ff;white-space:pre}
+  .r0{opacity:0;animation:fi .01s 0.000s forwards}
+  .r1{opacity:0;animation:fi .01s 0.050s forwards}
+  .r2{opacity:0;animation:fi .01s 0.100s forwards}
+  .r3{opacity:0;animation:fi .01s 0.150s forwards}
+  .r4{opacity:0;animation:fi .01s 0.200s forwards}
+  .r5{opacity:0;animation:fi .01s 0.250s forwards}
+  .r6{opacity:0;animation:fi .01s 0.300s forwards}
+  .r7{opacity:0;animation:fi .01s 0.350s forwards}
+  .r8{opacity:0;animation:fi .01s 0.400s forwards}
+  .r9{opacity:0;animation:fi .01s 0.450s forwards}
+  .r10{opacity:0;animation:fi .01s 0.500s forwards}
+  .r11{opacity:0;animation:fi .01s 0.550s forwards}
+  .r12{opacity:0;animation:fi .01s 0.600s forwards}
+  .r13{opacity:0;animation:fi .01s 0.650s forwards}
+  .r14{opacity:0;animation:fi .01s 0.700s forwards}
+  .r15{opacity:0;animation:fi .01s 0.750s forwards}
+  .r16{opacity:0;animation:fi .01s 0.800s forwards}
+  .r17{opacity:0;animation:fi .01s 0.850s forwards}
+  .r18{opacity:0;animation:fi .01s 0.900s forwards}
+  .r19{opacity:0;animation:fi .01s 0.950s forwards}
+  .r20{opacity:0;animation:fi .01s 1.000s forwards}
+  .r21{opacity:0;animation:fi .01s 1.050s forwards}
+  .r22{opacity:0;animation:fi .01s 1.100s forwards}
+  .r23{opacity:0;animation:fi .01s 1.150s forwards}
+  .r24{opacity:0;animation:fi .01s 1.200s forwards}
+  .r25{opacity:0;animation:fi .01s 1.250s forwards}
+  .r26{opacity:0;animation:fi .01s 1.300s forwards}
+  .r27{opacity:0;animation:fi .01s 1.350s forwards}
+  .r28{opacity:0;animation:fi .01s 1.400s forwards}
+  .r29{opacity:0;animation:fi .01s 1.450s forwards}
+  .r30{opacity:0;animation:fi .01s 1.500s forwards}
+  .r31{opacity:0;animation:fi .01s 1.550s forwards}
+  .r32{opacity:0;animation:fi .01s 1.600s forwards}
+  .r33{opacity:0;animation:fi .01s 1.650s forwards}
+  .r34{opacity:0;animation:fi .01s 1.700s forwards}
+  .r35{opacity:0;animation:fi .01s 1.750s forwards}
+  .r36{opacity:0;animation:fi .01s 1.800s forwards}
+  .r37{opacity:0;animation:fi .01s 1.850s forwards}
+  .r38{opacity:0;animation:fi .01s 1.900s forwards}
+  .r39{opacity:0;animation:fi .01s 1.950s forwards}
+  .r40{opacity:0;animation:fi .01s 2.000s forwards}
+  .r41{opacity:0;animation:fi .01s 2.050s forwards}
+  .r42{opacity:0;animation:fi .01s 2.100s forwards}
+  .r43{opacity:0;animation:fi .01s 2.150s forwards}
+  .r44{opacity:0;animation:fi .01s 2.200s forwards}
+  .r45{opacity:0;animation:fi .01s 2.250s forwards}
+  @keyframes fi{to{opacity:1}}
+</style>
+  <text class="r0" x="10" y="16">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r1" x="10" y="30">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r2" x="10" y="44">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#####@@@@@##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r3" x="10" y="58">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##@@@@@####@@@##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r4" x="10" y="72">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@#oo+=-----+o@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r5" x="10" y="86">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#*-=-:.......:+#@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r6" x="10" y="100">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##@o-::.........::.-###@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r7" x="10" y="114">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o.   .:...  ....: =@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r8" x="10" y="128">@@@@@@@@@@@@@@@@@@@@@@@@@@@#@##+    .:.        ..:###@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r9" x="10" y="142">@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#o+-:=+*++-::..:==. .#@#@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r10" x="10" y="156">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#..o###oo**++++++: o#@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r11" x="10" y="170">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@+:o*+++++=:..::=+:==+##@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r12" x="10" y="184">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+=::..-=-::::-=+*+--o@#@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r13" x="10" y="198">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+**+=:-*o++++****+===o@#@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r14" x="10" y="212">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##-+##ooo#o*++***+==-+o@#@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r15" x="10" y="226">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@o+***+**+=:-=====-=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r16" x="10" y="240">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#***+*+-::::.:==-=##@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r17" x="10" y="254">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@*+o-:+--=---=-.+@@@#@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r18" x="10" y="268">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#++***=--===-:-+o#@@##@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="r19" x="10" y="282">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#**+*+=-::.:-==**-o@@#####@@@@@@@@@@@@@@@@@@</text>
+  <text class="r20" x="10" y="296">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###@@#++-::.::-==*#*.:+#@@@@@@#####@@@@@@@@@@@@</text>
+  <text class="r21" x="10" y="310">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@####@@@@#*=o*=------+#o:...:=+*o#@@@@@@@###@@@@@@@@</text>
+  <text class="r22" x="10" y="324">@@@@@@@@@@@@@@@@@@@@@@@@@@##@@@@@#o**+*:*o*=====*##= .::::.:--=+*o##@@@@#@@@@@@@</text>
+  <text class="r23" x="10" y="338">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#o*+====*o-:**++++**o*.......::::----==++*o@#@@@@@@</text>
+  <text class="r24" x="10" y="352">@@@@@@@@@@@@@@@@@@@@@@@@@#o**+=---====++:-+++*o*=+-.....::::---------::-*@#@@@@@</text>
+  <text class="r25" x="10" y="366">@@@@@@@@@@@@@@@@@@@@@@@##+===-:---==:=+++*++ooo***:::::::.:::::-----::---o@#@@@@</text>
+  <text class="r26" x="10" y="380">@@@@@@@@@@@@@@@@@@@@@@#@*:==-::--=+-:o##*oo*ooo*o+:::::-::-:::---:-::::--+@#@@@@</text>
+  <text class="r27" x="10" y="394">@@@@@@@@@@@@@@@@@@@@@@#@+.--.-=--==:+###oo#ooo*oo-:::--::-:::---:::.:::--=#@#@@@</text>
+  <text class="r28" x="10" y="408">@@@@@@@@@@@@@@@@@@@@@@##=.=:.==--+-:o###ooo*o**#*-::-=-.-::::--:.:..:::---o@#@@@</text>
+  <text class="r29" x="10" y="422">@@@@@@@@@@@@@@@@@@@@@#@#-.-.:==--=:=o###oo**#o##=::---.::.::---. :.:::::-:-###@@</text>
+  <text class="r30" x="10" y="436">@@@@@@@@@@@@@@@@@@@@@#@o-.-:-+=--=:+####oo###o#o-::-=..:..::--:....::::::::*@#@@</text>
+  <text class="r31" x="10" y="450">@@@@@@@@@@@@@@@@@@@@@#@*-.::-+=-==:*####**###o#+::--:.:...:::..  .::::----:*@#@@</text>
+  <text class="r32" x="10" y="464">@@@@@@@@@@@@@@@@@@@@@#@+:.:-==--=-:o###o*o###oo=::-:.:::::.:...  .:::----=--o@#@</text>
+  <text class="r33" x="10" y="478">@@@@@@@@@@@@@@@@@@@@#@#=:.:==---=:-oo##o*ooooo*---- .::::::::..  .:::-----=:+@#@</text>
+  <text class="r34" x="10" y="492">@@@@@@@@@@@@@@@@@@@@#@o--..=---==:-*o##o*ooo#o+---. .::::::::..  :::------==-#@#</text>
+  <text class="r35" x="10" y="506">@@@@@@@@@@@@@@@@@@@@#@*::..----==:-**##o*o###o=--: .:::::::::..  :::-------==o@#</text>
+  <text class="r36" x="10" y="520">@@@@@@@@@@@@@@@@@@@@##=--: --:-==.-**o#o*o###*--:  .:::::::::..  ::------==-=o@#</text>
+  <text class="r37" x="10" y="534">@@@@@@@@@@@@@@@@@@@#@#=-:  :=-:==.-**o#ooo##o+--. ..:::::::::..  .:-==----+=-o@#</text>
+  <text class="r38" x="10" y="548">@@@@@@@@@@@@@@@@@@@#@#=... .=-:=-.:+*o#o*oooo=-. ...:::::::::..  .--=====-=+=+##</text>
+  <text class="r39" x="10" y="562">@@@@@@@@@@@@@@@@@@@#@o:.::  --:=-..=*o#o*oooo+: ...:::::::::...  .:-=======++=#@</text>
+  <text class="r40" x="10" y="576">@@@@@@@@@@@@@@@@@@@#@+.-=.  :--+-..:*o##oo##o= ....:::::::::...  .:--====-==+=o@</text>
+  <text class="r41" x="10" y="590">@@@@@@@@@@@@@@@@@@#@#-:--.  :--+-.==+o##*o#o*:.:....::::::::...   :----=====++o@</text>
+  <text class="r42" x="10" y="604">@@@@@@@@@@@@@@@@@@#@o:-=-   :=++::+++*#o*o##+..:.....:::::::...   ::----======#@</text>
+  <text class="r43" x="10" y="618">@@@@@@@@@@@@@@@@@@##*=+-.   :++-:-***ooo*o*#+:::...:::::::::....  .:.::::-++=-*@</text>
+  <text class="r44" x="10" y="632">@@@@@@@@@@@@@@@@@@#@*-:..   :*=:--****oo*o*#+::....::::::::.....  :-----:::=+++#</text>
+  <text class="r45" x="10" y="646">@@@@@@@@@@@@@@@@@###:     . -+::-:*o*ooo*o##*::.:.::::::::....... :.:==+==--=++#</text>
+</svg>
